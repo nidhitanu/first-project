@@ -1,0 +1,7 @@
+science
+english
+math
+social science
+history
+economics
+
